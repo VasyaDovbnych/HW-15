@@ -36,4 +36,5 @@
 .item:nth-child(5){
     background-color: rgb(235, 234, 186);
     order: -1;
+    padding-left: 9px;
 }
